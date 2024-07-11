@@ -19,6 +19,8 @@ DevOps is complementary to agile software development; several DevOps aspects ca
  8. Tools and Technologies
     
 
+    ![image] (https://github.com/harshada7301/Devops-tool/assets/171673098/aad74158-78fb-4d52-984f-6c4394948a05)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  ${\color{white} \textbf{Git}}$
